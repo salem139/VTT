@@ -1,4 +1,10 @@
 [
-  "main/33-Circuit du Col Amic.gpx",
-  "main/34-circuit-du-haag.gpx"
+    {
+        "name": "33-Col amic",
+        "url": "https://raw.githubusercontent.com/salem139/VTT/main/33-Circuit%20du%20Col%20Amic.gpx"
+    },
+    {
+        "name": "34-Haag",
+        "url": "https://raw.githubusercontent.com/salem139/VTT/main/34-circuit-du-haag.gpx"
+    }
 ]
